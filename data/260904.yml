@@ -7,7 +7,7 @@ about:
   head: ff78f33
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:41:05Z
+  collectedAt: 2026-09-04T20:56:36Z
 timeline:
   created: 2019-07-14
   lastCommit: 2023-02-17
@@ -81,6 +81,39 @@ total:
   openIssue: 2
   commit: 50
 ---
+path: /home/runner/.x-repo/github.com/ozum/concat-md
+collectedAt: 2026-09-04T20:56:36Z
+loc:
+  Json:
+    code: 8435
+    comments: 0
+    blanks: 5
+    files: 3
+  TypeScript:
+    code: 380
+    comments: 90
+    blanks: 58
+    files: 3
+  JavaScript:
+    code: 21
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1447
+    blanks: 1072
+    files: 25
+  Text:
+    code: 0
+    comments: 96
+    blanks: 78
+    files: 9
+total:
+  code: 8936
+  comments: 1636
+  blanks: 1222
+  files: 41
 ---
 date: "2026-08-24"
 repo:
